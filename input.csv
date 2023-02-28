@@ -1,0 +1,5 @@
+﻿Name,Description
+Average,"Maximum element of , elements in the list"
+Max,Maximum element of elements in the list
+Min,Minimum element of elements in the list
+Round,Rounds the number up to the nearest integer less than the given value
